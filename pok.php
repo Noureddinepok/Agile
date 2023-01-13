@@ -1,1 +1,1 @@
-<?php echo "nta ghzal" ?>
+<?php echo "bnuit 3likom" ?>
